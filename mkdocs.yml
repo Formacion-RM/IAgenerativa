@@ -1,6 +1,6 @@
 site_name: IA generativa
-site_url:  https://sever8a.github.io/IAgenerativa/
-site_dir: site
+site_url:  https://Formacion-RM.github.io/IAgenerativa/
+site_dir: ../site
 docs_dir: docs
 use_directory_urls: false
 
