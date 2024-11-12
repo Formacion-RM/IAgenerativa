@@ -193,7 +193,29 @@ Estas herramientas se especializan en detectar contenido generado IA y pueden se
 
 <center>![](imagenes/detector3.PNG)</center>
 
+Ante la sospecha de malas prácticas en el uso de la Inteligencia Artificial, se pueden utilizar los detectores de de texto generado por IA.
 
+!!!alert "Autodetectar IA"
+
+    Paradógicamente una de las herramientas más fiables para detectar textos generados mediante IA, es ChatGPT.
+
+    Los detectores de plágio no dan alertas si el texto ha sido reelaborado o parafraseado.
+
+    Los detectores de plagio solo indican un porcentaje de probabilidad y no pueden utilizarse como prueba concluyente. *No es plagio en sentido clásico*.
+
+Hay que tener en cuenta que, a veces, algunas herramientas de IA pueden proporcionar información incorrecta o inconsistente. Esto puede hacer sospechar de la autoría.
+
+En algunos casos, las citas y referencias que proporciona la IA pueden ser inventadas o poco relevantes.
+
+Comparar el estilo del texto con entregas anteriores del estudiante para detectar incoherencias.
+
+### Validar la autoría de una prueba
+
+Hacer **validaciones orales** con los estudiantes que han presentado ejercicios sospechosos para comprobar que pueden demostrar lo que han plasmado en sus respuestas y que han entendido los contenidos.
+
+**Enviar mensajes** a los estudiantes para pedir aclaraciones o para obtener más información sobre sus respuestas.
+
+Pedir a los estudiantes que presenten **el proceso lógico** que han seguido, o bien un borrador o una pequeña parte de la tarea para demostrar que han trabajado en las respuestas.
 
 
 
