@@ -10,11 +10,11 @@ nav:
   - "3. Resúmenes y presentaciones": "resum.md"
   - "4. Imágenes y vídeos ": "text2image.md"
   - "5. Autoaprendizaje. Ética y responsabilidad en la IA generativa": "auto.md"
-  # - "7. Plagio": "plagio.md"
+  - "7. Metodología educativa": "metodo.md"
 
 theme:
   language: es
-  #favicon: imagenes/favicon.png
+  favicon: imagenes/favicon.ico
   name: "material"
   palette:
     primary: deep blue
@@ -33,10 +33,10 @@ extra:
     language: "es"
   social:
     #- icon: fontawesome/solid/envelope-square
-    #link: mailto:<m.iborra@edu.gva.es>
+    link: mailto:<formacion.rm8a@gmail.com>
   analytics:
     provider: google
-    property: 
+    property: G-MPYXZ32PBF
 
 plugins:
   - search
